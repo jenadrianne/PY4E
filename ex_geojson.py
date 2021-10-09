@@ -42,3 +42,11 @@ while True:
     #print(location)
 
     print ('Place id',js['results'][0]['place_id'])
+    
+    
+#Sample output
+#Enter location: UIUC
+#Retrieving  http://py4e-data.dr-chuck.net/json?sensor=false&address=UIUC&key=42
+#Retrieved 1654 characters
+#Place id ChIJ6VUmqSTXDIgR-iZoBCUFPKU
+#Enter location:
